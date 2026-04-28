@@ -45,6 +45,7 @@ https://github.com/zhaotoday/fingerprint-browser
 
 #### 检测网站
 - [whoer](https://whoer.net/zh)
+- [browserscan](https://www.browserscan.net/)
 
 #### 文章
 - [超级简单的静态住宅 IP 配置教程](https://github.com/imqixia/howtoisp)
