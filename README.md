@@ -48,6 +48,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [browserscan](https://www.browserscan.net/)
 
 #### 文章
+- [Web Scraping with Camoufox: A Developer's Complete Guide](https://decodo.com/blog/web-scraping-guide-with-camoufox)
 - [超级简单的静态住宅 IP 配置教程](https://github.com/imqixia/howtoisp)
 - [使用 Patchright 绕过浏览器机器人检测](https://zhuanlan.zhihu.com/p/1951923313946363856)
 - [Patchright Lite MCP](https://www.mcpworld.com/zh/detail/94e6c9f379d4382ccbcba837f58b7ce0)
