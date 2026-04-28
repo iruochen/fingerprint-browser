@@ -19,6 +19,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [OKBrowser](https://github.com/za515217965/OKBrowser)
 - [Gologin](https://gologin.com/)
 - [Wade X](https://wade.is/)
+- [roxybrowser](https://roxybrowser.com/)
 
 #### 浏览器
 - [hyperbrowser](https://www.hyperbrowser.ai/)
