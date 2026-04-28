@@ -118,6 +118,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [browserforge](https://github.com/daijro/browserforge)
 - [zhuzhai-ip](https://github.com/sc8940020/zhuzhai-ip)
 - [playwright-with-fingerprints](https://github.com/bablosoft/playwright-with-fingerprints)
 - [user-agents](https://github.com/intoli/user-agents)
