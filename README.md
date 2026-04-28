@@ -25,6 +25,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [tabbit](https://www.tabbit-ai.com/)
 
 #### 网址
+- [Chromium指纹浏览器开发教程](http://tup.com.cn/booksCenter/book_10860901.html)
 - [Chromium中文文档](https://github.com/ahangchen/Chromium_doc_zh)
 - [ChromeDriver 使用入门](https://developer.chrome.google.cn/docs/chromedriver/get-started?hl=zh-cn)
 - [Selenium](https://www.selenium.dev/)
