@@ -336,6 +336,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [jichangtz-tuijian](https://github.com/myikuns/jichangtz-tuijian)
 - [Prism-Browser-Community](https://github.com/DFarm6/Prism-Browser-Community)
 - [Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper)
 - [antibrow](https://github.com/antibrow/antibrow)
